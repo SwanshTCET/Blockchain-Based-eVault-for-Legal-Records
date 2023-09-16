@@ -1,5 +1,5 @@
 # Blockchain-Based-eVault-for-Legal-Records
-Blockchain-Based eVault for Legal Records
+Blockchain-Based eVault for Legal Records.
 
 Innovative solution for addressing the challenges in the legal records management system through a blockchain-based eVault platform. Our objective is to create a secure, transparent, and accessible ecosystem that caters to the needs of all stakeholders, including lawyers, judges, clients, and registrars.
 
